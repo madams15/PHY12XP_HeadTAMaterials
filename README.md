@@ -92,4 +92,4 @@ Affiliation: University of Rochester, Department of Physics & Astronomy <br>
 Office: Bausch & Lomb Hall 108 <br>
 E-mail: madams@pas.rochester.edu <br>
 
-Contributors to the course: Dan Watson, Gourab Ghoshal, Arie Bodek, Steve Manly. Contributors to the MSP course development, and future Head TAs, are welcome to add authorship to any documents here they feel need amelioration, and have changed themselves. New tools and commits are always welcome.
+Contributors to the course: Dan Watson, Gourab Ghoshal, Arie Bodek, Steve Manly. Contributors to the MSP course development, and future Head TAs, are welcome to add authorship to any documents here they feel need amelioration, and have changed themselves. New tools and commits are always welcome. Please add thorough documentation, and edit the README.md to reflect changes.
