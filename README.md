@@ -3,51 +3,78 @@
 ## **Purpose:** 
 The purpose of this git repo should be obvious if you have been directed here and you are familiar with the Mastery-Self Paced (MSP) Physics courses taught at the University of Rochester. You are most likely assigned as the role of being the Head Teaching Assistant for the course. Hopefully you find the following set of directories helpful as they should cover all of the materials and instructions  you need for:
 
-#### 0. What the course is all about
-#### 1. Managing and training your fellow team of Teaching Assistants and Instructors
-#### 2. Determining the course pace
-#### 3. What action you need to take based on the current course pace and situation in real time
+<ol>
+	<li> What the course is all about
+	<li>Managing and training your fellow team of Teaching Assistants and Instructors
+	<li> Determining the course pace
+	<li> What action you need to take based on the current course pace and situation in real time
+</ol>
 
 ## **Table of Contents:**
 
 Here is the "Table of Contents" for this git-repo, including a brief description of each directory, and files of importance. 
 
-#### 1. *PHY12XP_HeadTAMaterials* : Home Directory
-#### 2. *PHY12XP_HeadTAMaterials/HeadTAInstructions* :
-	* Directory containing a LaTeX document that details instructions for the user.
-#### 3. *PHY12XP_HeadTAMaterials/Literature* : 
-	* Directory containing literature pertaining to the course.
-	* Information provided by the current chair of the Department, Professor Dan Watson (dmw@pas.rochester.edu).
-#### 4. *PHY12XP_HeadTAMaterials/ProgressPlot* : 
-	* Directory containing an the code to track progress in the course. Also includes an example grade center output from blackboard.
+<ol>
+	<li> <b><em>PHY12XP_HeadTAMaterials</em></b> 
+		<br>
+		Home Directory
+		<br><br>
+	<li> <b><em>PHY12XP_HeadTAMaterials/HeadTAInstructions</b></em>
+		<br>
+		Directory containing a LaTeX document that details instructions for the user.
+		<br><br>
+	<li> <b><em>PHY12XP_HeadTAMaterials/Literature</b></em>
+		<br>
+		Directory containing literature pertaining to the course.
+		<br>
+		Information provided by the current chair of the Department, Professor Dan Watson (dmw@pas.rochester.edu).
+		<br><br>
+	<li> <b><em>PHY12XP_HeadTAMaterials/ProgressPlot</b></em> 
+		<br>
+		Directory containing an the code to track progress in the course. Also includes an example grade center output from blackboard.
 	<ol>
-		<li>  *gc_PHY12XP.2000FALL.35044_fullgc_2000-01-01-01-01-01.csv* :
-			* An example of the Grade Center downloaded from Blackboard with pseudo-student information.
-		<li> *passrate.py* :
-			* A python script that indicates the passrate for each module, including the ratios of number of quizzes given for each module compared to the number of prescreens given.
-		<li> *PHY122P-ProgressPlot-.pdf* :
-			* An example of the output from the following:
-		<li> *progressplot.py* :
-			* A python script that yields a histogram for the current student progress in the class. It also yields student information off of blackboard for whatever module you choose. It also provides the average module number, median, and standard deviation for the course progress.
+		<li>  <em>gc_PHY12XP.2000FALL.35044_fullgc_2000-01-01-01-01-01.csv</em>
+			<br>
+			An example of the Grade Center downloaded from Blackboard with pseudo-student information.
+		<li> <em>passrate.py</em>
+			<br>
+			A python script that indicates the passrate for each module, including the ratios of number of quizzes given for each module compared to the number of prescreens given.
+		<li> <em>PHY122P-ProgressPlot-.pdf</em>
+			<br>
+			An example of the output from the following:
+		<li> <em>progressplot.py</em>
+			<br>
+			A python script that yields a histogram for the current student progress in the class. It also yields student information off of blackboard for whatever module you choose. It also provides the average module number, median, and standard deviation for the course progress.
 	</ol>
-#### 5. *PHY12XP_HeadTAMaterials/README.md* : This file.
-#### 6. *PHY12XP_HeadTAMaterials/StudentMaterials* :
+	<br><br>
+	<li> <em>PHY12XP_HeadTAMaterials/README.md</em>
+		<br>
+		This file.
+		<br><br>
+	<li> <b><em>PHY12XP_HeadTAMaterials/StudentMaterials</b></em>
 	<ol>
-		<li> *PHY12XP_HeadTAMaterials/StudentMaterials/HTGAA_forStudents/* :
-			* An example document that is helpful for students and makes expectations clear. This is an example used for PHY122P.
-		<li> *PHY12XP_HeadTAMaterials/StudentMaterials/Prescreens* :
-			* An example of a prescreen. Please contact the author for prescreens made for PHY122P. If you would like to make more prescreens, please see the document in */HeadTAInstructions/* (Section 2) for details on how to make them.
+		<li> <b><em>PHY12XP_HeadTAMaterials/StudentMaterials/HTGAA_forStudents/</b></em>
+			<br>
+			An example document that is helpful for students and makes expectations clear. This directory contains the version for PHY122P. However it can be adapted to PHY121P.
+		<li> <b><em>PHY12XP_HeadTAMaterials/StudentMaterials/Prescreens</b></em>
+			<br>
+			An example of a prescreen. Please contact the author for prescreens made for PHY122P. If you would like to make more prescreens, please see the document in <b><em>/HeadTAInstructions/</b></em> for details on how to make them.
 	</ol>
-#### 7. *PHY12XP_HeadTAMaterials/TAManagement* :
-#### 8. *PHY12XP_HeadTAMaterials/TATrainingMaterials* :
+	<br><br>
+	<li> <b><em>PHY12XP_HeadTAMaterials/TAManagement</b></em>
+	<br><br>
+	<li> <b><em>PHY12XP_HeadTAMaterials/TATrainingMaterials</b></em>
 	<ol>
-		<li> *PHY12XP_HeadTAMaterials/TATrainingMaterials/Detailed-Instructions-for-Instructors_PHY122P-F15.pdf* :
-			* A document crafted by Arie Bodek, Dev Ashish Khaitan, and Marissa Adams. 
-		<li> *PHY12XP_HeadTAMaterials/TATrainingMaterials/Grader* :
-		<li> *PHY12XP_HeadTAMaterials/TATrainingMaterials/Prescreener* :
-		<li> *PHY12XP_HeadTAMaterials/TATrainingMaterials/WorkshopLeader* :
+		<li> <em>PHY12XP_HeadTAMaterials/TATrainingMaterials/Detailed-Instructions-for-Instructors_PHY122P-F15.pdf</em>
+			<br>
+			A document crafted by Arie Bodek, Dev Ashish Khaitan, and Marissa Adams. 
+		<li> <b><em>PHY12XP_HeadTAMaterials/TATrainingMaterials/Grader</b></em>
+		<li> <b><em>PHY12XP_HeadTAMaterials/TATrainingMaterials/Prescreener</b></em>
+		<li> <b><em>PHY12XP_HeadTAMaterials/TATrainingMaterials/WorkshopLeader</b></em>
+			<br>
+			Each of these directories contain respective LaTeX documents that describe the role a Teaching Assitant, or Teaching Instructor, may play in the workshop, or MSP setting.
 	</ol>
-<\ol>
+</ol>
 
 ## **Download Instructions:**
 
