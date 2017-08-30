@@ -1,14 +1,14 @@
-Welcome to **PHY12XP_HeadTAMaterials**!
+# Welcome to **PHY12XP_HeadTAMaterials**!
 
-**Purpose:** 
+## **Purpose:** 
 The purpose of this git repo should be obvious if you have been directed here and you are familiar with the Mastery-Self Paced (MSP) Physics courses taught at the University of Rochester. You are most likely assigned as the role of being the Head Teaching Assistant for the course. Hopefully you find the following set of directories helpful as they should cover all of the materials and instructions  you need for:
 
-0. What the course is all about
-1. Managing and training your fellow team of Teaching Assistants and Instructors
-2. Determining the course pace
-3. What action you need to take based on the current course pace and situation in real time
+#### 0. What the course is all about
+#### 1. Managing and training your fellow team of Teaching Assistants and Instructors
+#### 2. Determining the course pace
+#### 3. What action you need to take based on the current course pace and situation in real time
 
-**Table of Contents:**
+## **Table of Contents:**
 
 Here is the "Table of Contents" for this git-repo, including a brief description of each directory, and files of importance. 
 
@@ -42,18 +42,16 @@ Here is the "Table of Contents" for this git-repo, including a brief description
 	8.3 *PHY12XP_HeadTAMaterials/TATrainingMaterials/Prescreener* :
 	8.4 *PHY12XP_HeadTAMaterials/TATrainingMaterials/WorkshopLeader* :
 
-**Download Instructions:**
+## **Download Instructions:**
 
 1. Go to: https://github.com/madams15/PHY12XP_HeadTAMaterials
 2. Either download directly, or type
 ```
 git clone https://github.com/madams15/PHY12XP_HeadTAMaterials.git
 ```
-in the command line. The repository will then be cloned to your machine.
-3. Learn more on working with git here: http://rogerdudler.github.io/git-guide/
+in the command line. The repository will then be cloned to your machine. Learn more on working with git here: http://rogerdudler.github.io/git-guide/
 
-**Author Information:**
-
+## **Author Information:**
 Marissa B. Adams
 Graduate Student
 Affiliation: University of Rochester, Department of Physics & Astronomy
