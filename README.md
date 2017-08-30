@@ -47,9 +47,13 @@ Here is the "Table of Contents" for this git-repo, including a brief description
 
 **Author Information:**
 Marissa B. Adams
+
 Graduate Student
+
 Affiliation: University of Rochester, Department of Physics & Astronomy
+
 Office: Bausch & Lomb Hall 108
+
 E-mail: madams@pas.rochester.edu
 
 Contributors to the course: Dan Watson, Gourab Ghoshal, Arie Bodek, Steve Manly
