@@ -43,17 +43,19 @@ Here is the "Table of Contents" for this git-repo, including a brief description
 	8.4 *PHY12XP_HeadTAMaterials/TATrainingMaterials/WorkshopLeader* :
 
 **Download Instructions:**
-#Write here instructutions for download
+
+1. Go to: https://github.com/madams15/PHY12XP_HeadTAMaterials
+2. Either download directly, or type 
+	git clone https://github.com/madams15/PHY12XP_HeadTAMaterials.git
+	in the command line. The repository will then be cloned to your machine.
+3. Learn more on working with git here: http://rogerdudler.github.io/git-guide/
 
 **Author Information:**
+
 Marissa B. Adams
-
 Graduate Student
-
 Affiliation: University of Rochester, Department of Physics & Astronomy
-
 Office: Bausch & Lomb Hall 108
-
 E-mail: madams@pas.rochester.edu
 
 Contributors to the course: Dan Watson, Gourab Ghoshal, Arie Bodek, Steve Manly
