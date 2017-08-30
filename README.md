@@ -1,6 +1,7 @@
 Welcome to **PHY12XP_HeadTAMaterials**!
 
-**Purpose:** The purpose of this git repo should be obvious if you have been directed here and you are familiar with the Mastery-Self Paced (MSP) Physics courses taught at the University of Rochester. You are most likely assigned as the role of being the Head Teaching Assistant for the course. Hopefully you find the following set of directories helpful as they should cover all of the materials and instructions  you need for:
+**Purpose:** 
+The purpose of this git repo should be obvious if you have been directed here and you are familiar with the Mastery-Self Paced (MSP) Physics courses taught at the University of Rochester. You are most likely assigned as the role of being the Head Teaching Assistant for the course. Hopefully you find the following set of directories helpful as they should cover all of the materials and instructions  you need for:
 
 0. What the course is all about
 1. Managing and training your fellow team of Teaching Assistants and Instructors
@@ -50,3 +51,5 @@ Graduate Student
 Affiliation: University of Rochester, Department of Physics & Astronomy
 Office: Bausch & Lomb Hall 108
 E-mail: madams@pas.rochester.edu
+
+Contributors to the course: Dan Watson, Gourab Ghoshal, Arie Bodek, Steve Manly
