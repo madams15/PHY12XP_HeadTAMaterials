@@ -20,14 +20,22 @@ Here is the "Table of Contents" for this git-repo, including a brief description
 	- Information provided by the current chair of the Department, Professor Dan Watson (dmw@pas.rochester.edu).
 4. *PHY12XP_HeadTAMaterials/ProgressPlot* : 
 	- Directory containing an the code to track progress in the course. Also includes an example grade center output from blackboard.
+	<br>
 	4.1  *gc_PHY12XP.2000FALL.35044_fullgc_2000-01-01-01-01-01.csv* :
 		- An example of the Grade Center downloaded from Blackboard with pseudo-student information.
+	</br>
+	<br>
 	4.2 *passrate.py* :
 		- A python script that indicates the passrate for each module, including the ratios of number of quizzes given for each module compared to the number of prescreens given.
+	</br>
+	<br>
 	4.3 *PHY122P-ProgressPlot-.pdf* :
 		- An example of the output from the following:
+	</br>
+	<br>
 	4.4 *progressplot.py* :
 		- A python script that yields a histogram for the current student progress in the class. It also yields student information off of blackboard for whatever module you choose. It also provides the average module number, median, and standard deviation for the course progress.
+	</br>
 5. *PHY12XP_HeadTAMaterials/README.md* : This file.
 6. *PHY12XP_HeadTAMaterials/StudentMaterials* :
 	6.1 *PHY12XP_HeadTAMaterials/StudentMaterials/HTGAA_forStudents/* :
