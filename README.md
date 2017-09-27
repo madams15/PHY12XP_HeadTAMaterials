@@ -1,52 +1,95 @@
-Welcome to **PHY12XP_HeadTAMaterials**!
+# Welcome to **PHY12XP_HeadTAMaterials**!
 
-**Purpose:** The purpose of this git repo should be obvious if you have been directed here and you are familiar with the Mastery-Self Paced (MSP) Physics courses taught at the University of Rochester. You are most likely assigned as the role of being the Head Teaching Assistant for the course. Hopefully you find the following set of directories helpful as they should cover all of the materials and instructions  you need for:
+## **Purpose:** 
+The purpose of this git repo should be obvious if you have been directed here and you are familiar with the Mastery-Self Paced (MSP) Physics courses taught at the University of Rochester. You are most likely assigned as the role of being the Head Teaching Assistant for the course. Hopefully you find the following set of directories helpful as they should cover all of the materials and instructions  you need for:
 
-0. What the course is all about
-1. Managing and training your fellow team of Teaching Assistants and Instructors
-2. Determining the course pace
-3. What action you need to take based on the current course pace and situation in real time
+<ol>
+	<li> What the course is all about
+	<li>Managing and training your fellow team of Teaching Assistants and Instructors
+	<li> Determining the course pace
+	<li> What action you need to take based on the current course pace and situation in real time
+</ol>
 
-**Table of Contents:**
+## **Table of Contents:**
 
 Here is the "Table of Contents" for this git-repo, including a brief description of each directory, and files of importance. 
 
-1. *PHY12XP_HeadTAMaterials* : Home Directory
-2. *PHY12XP_HeadTAMaterials/HeadTAInstructions* : 
-	- Directory containing a LaTeX document that details instructions for the user.
-3. *PHY12XP_HeadTAMaterials/Literature* : 
-	- Directory containing literature pertaining to the course.
-	- Information provided by the current chair of the Department, Professor Dan Watson (dmw@pas.rochester.edu).
-4. *PHY12XP_HeadTAMaterials/ProgressPlot* : 
-	- Directory containing an the code to track progress in the course. Also includes an example grade center output from blackboard.
-	4.1  *gc_PHY12XP.2000FALL.35044_fullgc_2000-01-01-01-01-01.csv* :
-		- An example of the Grade Center downloaded from Blackboard with pseudo-student information.
-	4.2 *passrate.py* :
-		- A python script that indicates the passrate for each module, including the ratios of number of quizzes given for each module compared to the number of prescreens given.
-	4.3 *PHY122P-ProgressPlot-.pdf* :
-		- An example of the output from the following:
-	4.4 *progressplot.py* :
-		- A python script that yields a histogram for the current student progress in the class. It also yields student information off of blackboard for whatever module you choose. It also provides the average module number, median, and standard deviation for the course progress.
-5. *PHY12XP_HeadTAMaterials/README.md* : This file.
-6. *PHY12XP_HeadTAMaterials/StudentMaterials* :
-	6.1 *PHY12XP_HeadTAMaterials/StudentMaterials/HTGAA_forStudents/* :
-		- An example document that is helpful for students and makes expectations clear. This is an example used for PHY122P.
-	6.2 *PHY12XP_HeadTAMaterials/StudentMaterials/Prescreens* :
-		- An example of a prescreen. Please contact the author for prescreens made for PHY122P. If you would like to make more prescreens, please see the document in */HeadTAInstructions/* (Section 2) for details on how to make them.
-7. *PHY12XP_HeadTAMaterials/TAManagement* :
-8. *PHY12XP_HeadTAMaterials/TATrainingMaterials* :
-	8.1 *PHY12XP_HeadTAMaterials/TATrainingMaterials/Detailed-Instructions-for-Instructors_PHY122P-F15.pdf* :
-		- A document crafted by Arie Bodek, Dev Ashish Khaitan, and Marissa Adams. 
-	8.2 *PHY12XP_HeadTAMaterials/TATrainingMaterials/Grader* :
-	8.3 *PHY12XP_HeadTAMaterials/TATrainingMaterials/Prescreener* :
-	8.4 *PHY12XP_HeadTAMaterials/TATrainingMaterials/WorkshopLeader* :
+<ol>
+	<li> <b><em>PHY12XP_HeadTAMaterials</em></b> 
+		<br>
+		Home Directory
+		<br><br>
+	<li> <b><em>PHY12XP_HeadTAMaterials/HeadTAInstructions</b></em>
+		<br>
+		Directory containing a LaTeX document that details instructions for the user.
+		<br><br>
+	<li> <b><em>PHY12XP_HeadTAMaterials/Literature</b></em>
+		<br>
+		Directory containing literature pertaining to the course.
+		<br>
+		Information provided by the current chair of the Department, Professor Dan Watson (dmw@pas.rochester.edu).
+		<br><br>
+	<li> <b><em>PHY12XP_HeadTAMaterials/ProgressPlot</b></em> 
+		<br>
+		Directory containing an the code to track progress in the course. Also includes an example grade center output from blackboard.
+	<ol>
+		<li>  <em>gc_PHY12XP.2000FALL.35044_fullgc_2000-01-01-01-01-01.csv</em>
+			<br>
+			An example of the Grade Center downloaded from Blackboard with pseudo-student information.
+		<li> <em>passrate.py</em>
+			<br>
+			A python script that indicates the passrate for each module, including the ratios of number of quizzes given for each module compared to the number of prescreens given.
+		<li> <em>PHY122P-ProgressPlot-.pdf</em>
+			<br>
+			An example of the output from the following:
+		<li> <em>progressplot.py</em>
+			<br>
+			A python script that yields a histogram for the current student progress in the class. It also yields student information off of blackboard for whatever module you choose. It also provides the average module number, median, and standard deviation for the course progress.
+	</ol>
+	<br><br>
+	<li> <em>PHY12XP_HeadTAMaterials/README.md</em>
+		<br>
+		This file.
+		<br><br>
+	<li> <b><em>PHY12XP_HeadTAMaterials/StudentMaterials</b></em>
+	<ol>
+		<li> <b><em>PHY12XP_HeadTAMaterials/StudentMaterials/HTGAA_forStudents/</b></em>
+			<br>
+			An example document that is helpful for students and makes expectations clear. This directory contains the version for PHY122P. However it can be adapted to PHY121P.
+		<li> <b><em>PHY12XP_HeadTAMaterials/StudentMaterials/Prescreens</b></em>
+			<br>
+			An example of a prescreen. Please contact the author for prescreens made for PHY122P. If you would like to make more prescreens, please see the document in <b><em>/HeadTAInstructions/</b></em> for details on how to make them.
+	</ol>
+	<br><br>
+	<li> <b><em>PHY12XP_HeadTAMaterials/TAManagement</b></em>
+	<br><br>
+	<li> <b><em>PHY12XP_HeadTAMaterials/TATrainingMaterials</b></em>
+	<ol>
+		<li> <em>PHY12XP_HeadTAMaterials/TATrainingMaterials/Detailed-Instructions-for-Instructors_PHY122P-F15.pdf</em>
+			<br>
+			A document crafted by Arie Bodek, Dev Ashish Khaitan, and Marissa Adams. 
+		<li> <b><em>PHY12XP_HeadTAMaterials/TATrainingMaterials/Grader</b></em>
+		<li> <b><em>PHY12XP_HeadTAMaterials/TATrainingMaterials/Prescreener</b></em>
+		<li> <b><em>PHY12XP_HeadTAMaterials/TATrainingMaterials/WorkshopLeader</b></em>
+			<br>
+			Each of these directories contain respective LaTeX documents that describe the role a Teaching Assitant, or Teaching Instructor, may play in the workshop, or MSP setting.
+	</ol>
+</ol>
 
-**Download Instructions:**
-#Write here instructutions for download
+## **Download Instructions:**
 
-**Author Information:**
-Marissa B. Adams
-Graduate Student
-Affiliation: University of Rochester, Department of Physics & Astronomy
-Office: Bausch & Lomb Hall 108
-E-mail: madams@pas.rochester.edu
+1. Go to: https://github.com/madams15/PHY12XP_HeadTAMaterials
+2. Either download directly, or type
+```
+git clone https://github.com/madams15/PHY12XP_HeadTAMaterials.git
+```
+in the command line. The repository will then be cloned to your machine. Learn more on working with git here: http://rogerdudler.github.io/git-guide/
+
+## **Author Information:**
+Marissa B. Adams <br>
+Graduate Student <br>
+Affiliation: University of Rochester, Department of Physics & Astronomy <br>
+Office: Bausch & Lomb Hall 108 <br>
+E-mail: madams@pas.rochester.edu <br>
+
+<b>Contributors to the course:</b> Dan Watson, Gourab Ghoshal, Arie Bodek, Steve Manly. Contributors to the MSP course development, and future Head TAs, are welcome to add authorship to any documents here they feel need amelioration, and have changed themselves. New tools and commits are always welcome. Please add thorough documentation, and edit the <em>README.md</em> to reflect changes.
