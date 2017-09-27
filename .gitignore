@@ -1,0 +1,6 @@
+*.nsf*
+*.aux
+*.log
+*.gz
+*.*~
+.Rhistory
